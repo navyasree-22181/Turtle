@@ -1,0 +1,15 @@
+from turtle import *
+fillcolor('blue')
+pensize(10)
+pencolor('black')
+begin_fill()
+backward(150)
+left(90)
+backward(100)
+left(90)
+backward(150)
+left(90)
+backward(100)
+left(90)
+end_fill()
+

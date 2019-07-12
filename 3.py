@@ -1,0 +1,14 @@
+from turtle import *
+pencolor('blue')
+for i in range(15):
+         forward(100)
+         left(90)
+         forward(10)
+         left(90)
+         forward(100)
+         right(90)
+         forward(10)
+         right(90)
+pencolor('red')
+for i in range(225):
+    undo()
